@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+#box2{
+  margin: 4%;
+}
+h1{
+  font-size: 40px;
+  font-weight: 500px;
+}
+
+p{
+  padding-top: 25px;
+  font-size: 20px;
+}
+.button1{
+  border: 1px solid #040404;
+  padding: 10px 20px;
+  background: #040404;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px; /* Cỡ chữ */
+  font-weight: bold; /* Độ đậm của chữ */
+  text-align: center; /* Căn giữa nội dung chữ trong nút */
+  text-decoration: none;
+}
+.button1:hover{
+  background: rgba(255, 251, 0, 0.959);
+  color: #040404;
+}
+
+.button2{
+  border: 1px solid #040404;
+  padding: 10px 32px;
+  background: #040404;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px; /* Cỡ chữ */
+  font-weight: bold; /* Độ đậm của chữ */
+  text-align: center; /* Căn giữa nội dung chữ trong nút */
+  text-decoration: none;
+}
+.button2:hover{
+  background: rgba(255, 251, 0, 0.959);
+  color: #040404;
+}
